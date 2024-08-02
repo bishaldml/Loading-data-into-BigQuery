@@ -11,17 +11,23 @@ Specify the below table options:
 Source:
 
 Create table from: Upload
+
 Choose File: select the file you downloaded locally earlier
+
 File format: CSV
+
 Destination:
 
 Table name: 2018trips Leave all other settings at default.
+
 Schema:
 
 Check Auto Detect (tip: Not seeing the checkbox? Ensure the file format is CSV and not Avro)
+
 Advanced Options
 
 Leave at default values
+
 Click Create Table.
 
 3. You should now see the 2018trips table below the nyctaxi dataset.
